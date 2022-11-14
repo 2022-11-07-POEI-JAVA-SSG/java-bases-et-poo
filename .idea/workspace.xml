@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="135d4acc-46f7-4224-9871-47d46bbcf69b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Point3_Conditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point3_Conditions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point3_ConditionsMultiples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point4_Math.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,21 +37,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Point3_Conditions2">
-    <configuration name="E2_LectureClavier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E2_LectureClavier" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Point2_LectureClavier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point2_LectureClavier" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Point4_Math">
     <configuration name="Point3_Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Point3_Conditions" />
       <module name="java" />
@@ -66,6 +52,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Point3_ConditionsMultiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point3_ConditionsMultiples" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Point3_traduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Point3_traduction" />
       <module name="java" />
@@ -73,13 +66,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Point4_Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point4_Math" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point4_Math" />
+        <item itemvalue="Application.Point3_ConditionsMultiples" />
         <item itemvalue="Application.Point3_Conditions2" />
         <item itemvalue="Application.Point3_Conditions" />
         <item itemvalue="Application.Point3_traduction" />
-        <item itemvalue="Application.E2_LectureClavier" />
-        <item itemvalue="Application.Point2_LectureClavier" />
       </list>
     </recent_temporary>
   </component>

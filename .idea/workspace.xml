@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="135d4acc-46f7-4224-9871-47d46bbcf69b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/E3_Booleens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point5_Booleens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point6_Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E3_BoucleFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point7_BoucleFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point8_While.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.E3_Booleens">
+  <component name="RunManager" selected="Application.Point8_While">
     <configuration name="E3_Booleens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E3_Booleens" />
       <module name="java" />
@@ -47,8 +46,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point4_Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point4_Math" />
+    <configuration name="E3_BoucleFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E3_BoucleFor" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,15 +60,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StdinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StdinTest" />
+    <configuration name="Point7_BoucleFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point7_BoucleFor" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="Point8_While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point8_While" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point8_While" />
+        <item itemvalue="Application.E3_BoucleFor" />
+        <item itemvalue="Application.Point7_BoucleFor" />
         <item itemvalue="Application.E3_Booleens" />
         <item itemvalue="Application.Point5_Booleens" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.StdinTest" />
-        <item itemvalue="Application.Point4_Math" />
       </list>
     </recent_temporary>
   </component>

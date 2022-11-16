@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="135d4acc-46f7-4224-9871-47d46bbcf69b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/E3_BoucleFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point7_BoucleFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point8_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E3_TableauStatiqueNotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point10_Var.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point11_Portee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point12_TableauxStatiques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point13_Foreach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point14_TableauxComparaison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point9_DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point9_Suite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point9_SuiteContinue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,44 +37,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.Point8_While">
-    <configuration name="E3_Booleens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E3_Booleens" />
+}]]></component>
+  <component name="RunManager" selected="Application.Point14_TableauxComparaison">
+    <configuration name="E3_TableauStatiqueNotes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E3_TableauStatiqueNotes" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E3_BoucleFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E3_BoucleFor" />
+    <configuration name="Point11_Portee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point11_Portee" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point5_Booleens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point5_Booleens" />
+    <configuration name="Point12_TableauxStatiques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point12_TableauxStatiques" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point7_BoucleFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point7_BoucleFor" />
+    <configuration name="Point13_Foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point13_Foreach" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point8_While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point8_While" />
+    <configuration name="Point14_TableauxComparaison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point14_TableauxComparaison" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Point8_While" />
-        <item itemvalue="Application.E3_BoucleFor" />
-        <item itemvalue="Application.Point7_BoucleFor" />
-        <item itemvalue="Application.E3_Booleens" />
-        <item itemvalue="Application.Point5_Booleens" />
+        <item itemvalue="Application.Point14_TableauxComparaison" />
+        <item itemvalue="Application.Point13_Foreach" />
+        <item itemvalue="Application.Point12_TableauxStatiques" />
+        <item itemvalue="Application.E3_TableauStatiqueNotes" />
+        <item itemvalue="Application.Point11_Portee" />
       </list>
     </recent_temporary>
   </component>

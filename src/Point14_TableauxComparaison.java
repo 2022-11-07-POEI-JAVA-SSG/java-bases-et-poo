@@ -1,7 +1,11 @@
+import java.util.Arrays;
+
 public class Point14_TableauxComparaison {
     public static void main(String[] args) {
         int[] numbers={10,15,23};
         int[] numbers2=numbers;
+
+        System.out.println(Arrays.toString(numbers));
 
         System.out.printf("numbers[0] : %d\n",numbers[0]);
         System.out.printf("number2[0] : %d\n\n",numbers2[0]);

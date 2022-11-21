@@ -2,25 +2,40 @@ package heritage;
 
 // DRY : Don't repeat yourself
 
-public class Guerrier extends Personnage {
-    private Arme arme;
+import java.util.ArrayList;
 
-    public Guerrier(String name, int dureeDeVie, Arme arme) {
+public class Guerrier extends Personnage implements EntiteVolante {
+//    private Arme arme;
+    private ArrayList<Arme> armes;
+
+    public Guerrier(String name, int dureeDeVie) {
         super(name,dureeDeVie);
-        this.arme = arme;
     }
 
-    public Arme getArme() {
-        return arme;
+    public Guerrier(String name,int dureeDevie,ArrayList<Arme> armes){
+        this(name,dureeDevie);
+        this.armes=armes;
     }
 
-    public void setArme(Arme arme) {
-        this.arme = arme;
+    public ArrayList<Arme> getArmes() {
+        return armes;
+    }
+
+    public void setArme(ArrayList<Arme> arme) {
+        this.armes = arme;
+    }
+
+    public void addArme(Arme arme){
+        this.armes.add(arme);
     }
 
 
     @Override
     public void presentation(){
         System.out.printf("Mon nom est %s, et je suis un un guerrier.\n",this.getName());
+    }
+
+    public void voler(){
+        System.out.println("I believe i can fly..");
     }
 }

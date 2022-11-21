@@ -2,43 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="135d4acc-46f7-4224-9871-47d46bbcf69b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fondamentaux/Directions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/Surchage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jeux/Guerrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jeux/Magicien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jeux/MainJeux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jeux/Sorcier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E1_ExoAffichage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/E1_ExoAffichage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E2_LectureClavier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/E2_LectureClavier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E3_Booleens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/E3_Booleens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E3_BoucleFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/E3_BoucleFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E3_TableauStatiqueNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/E3_TableauStatiqueNotes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E5_ExoMatriceCarre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/E5_ExoMatriceCarre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E6_HashMapRecherche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/E6_HashMapRecherche.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point10_Var.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point10_Var.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point11_Portee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point11_Portee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point12_TableauxStatiques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point12_TableauxStatiques.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point13_Foreach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point13_Foreach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point14_TableauxComparaison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point14_TableauxComparaison.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point15_Tableau2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point15_Tableau2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point17_HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point17_HashTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point18_CharEtString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point18_CharEtString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point19_TableauxDynamiques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point19_TableauxDynamiques.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point1_VariablesEtAffichage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point1_VariablesEtAffichage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point20_Fonctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point20_Fonctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point2_LectureClavier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point2_LectureClavier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point3_Conditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point3_Conditions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point3_Conditions2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point3_Conditions2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point3_ConditionsMultiples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point3_ConditionsMultiples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point4_Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point4_Math.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point5_Booleens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point5_Booleens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point6_Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point6_Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point7_BoucleFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point7_BoucleFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point8_While.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point8_While.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point9_DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point9_DoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point9_Suite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point9_Suite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point9_SuiteContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Point9_SuiteContinue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/Etudiant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/Etudiant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

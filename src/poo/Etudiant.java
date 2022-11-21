@@ -45,4 +45,5 @@ public class Etudiant {
     public void setPays(String pays) {
         this.pays = pays;
     }
+
 }

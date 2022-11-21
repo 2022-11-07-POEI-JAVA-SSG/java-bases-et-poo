@@ -28,5 +28,8 @@ public class Test {
 //       System.out.printf("Surface : %.1f\n",rect.calculSurface());
 //       System.out.printf("Perimetre : %.1f\n",rect.calculPerimetre());
 //        System.out.println(rect);
+
+        var etudiant=new Etudiant("Lisangola","Christian","Belgique",false);
+
     }
 }

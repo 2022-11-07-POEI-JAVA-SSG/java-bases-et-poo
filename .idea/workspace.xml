@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="135d4acc-46f7-4224-9871-47d46bbcf69b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/heritage/Personnage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heritage/Arme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/heritage/Guerrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heritage/Guerrier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heritage/Magicien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heritage/Magicien.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/heritage/MainJeux.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heritage/MainJeux.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heritage/Sorcier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heritage/Sorcier.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Game">
+  <component name="RunManager" selected="Application.MainJeux">
     <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Game" />
       <module name="java" />
@@ -111,8 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Game" />
         <item itemvalue="Application.MainJeux" />
+        <item itemvalue="Application.Game" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Surchage" />
         <item itemvalue="Application.Imc" />

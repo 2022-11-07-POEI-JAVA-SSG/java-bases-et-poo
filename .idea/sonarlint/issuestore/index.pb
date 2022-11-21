@@ -1,7 +1,4 @@
 
-:
-
-.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 U
 %src/fondamentaux/Point13_Foreach.java,6/d/6dd49870dfaf52a83bb384e413f00b6c773ebcb8
 a

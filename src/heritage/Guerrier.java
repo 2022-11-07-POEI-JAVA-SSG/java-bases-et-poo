@@ -2,31 +2,12 @@ package heritage;
 
 // DRY : Don't repeat yourself
 
-public class Guerrier {
-    private String name;
-    private int dureeDeVie;
+public class Guerrier extends Personnage {
     private String arme;
 
     public Guerrier(String name, int dureeDeVie, String arme) {
-        this.name = name;
-        this.dureeDeVie = dureeDeVie;
+        super(name,dureeDeVie);
         this.arme = arme;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public int getDureeDeVie() {
-        return dureeDeVie;
-    }
-
-    public void setDureeDeVie(int dureeDeVie) {
-        this.dureeDeVie = dureeDeVie;
     }
 
     public String getArme() {
@@ -35,5 +16,11 @@ public class Guerrier {
 
     public void setArme(String arme) {
         this.arme = arme;
+    }
+
+
+    @Override
+    public void presentation(){
+        System.out.printf("Mon nom est %s, et je suis un un guerrier.\n",this.getName());
     }
 }
